@@ -3,5 +3,15 @@ img {
   width: 400px;
   border: 2px solid black;
   border-radius: 10px;
-  box-shadow: 0 0 5px yellow;
+  box-shadow: 0 0 5px green;
+  margin: 10px;
+}
+
+img:hover {
+  height: 350px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 0 0 5px red;
+  margin: 10px;
 }
